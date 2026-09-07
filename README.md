@@ -1,0 +1,1 @@
+# Smallest-Missing-Multiple-of-K
